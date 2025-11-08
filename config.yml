@@ -39,7 +39,7 @@ gui:
     defaultFgColor:
       - "#e0def4"
 
-  border: "none"
+  border: bold
 
   spinner:
     # The frames of the spinner animation.
